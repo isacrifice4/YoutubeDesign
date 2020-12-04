@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons8_clock_24px.png" />
+    <None Remove="icons8_clock_32px.png" />
+    <None Remove="icons8_facebook_like_24px.png" />
+    <None Remove="icons8_fire_32px.png" />
+    <None Remove="icons8_home_64px.png" />
+    <None Remove="icons8_menu_32px_2.png" />
+    <None Remove="icons8_menu_50px_4.png" />
+    <None Remove="icons8_notification_32px.png" />
+    <None Remove="icons8_play_button_48px_1.png" />
+    <None Remove="icons8_search_24px.png" />
+    <None Remove="icons8_squared_menu_50px.png" />
+    <None Remove="icons8_upload_to_cloud_32px.png" />
+    <None Remove="icons8_youtube_16px.png" />
+    <None Remove="icons8_youtube_48px.png" />
+    <None Remove="IMG_6860.png" />
+    <None Remove="Screenshot_1.png" />
+    <None Remove="Screenshot_14.png" />
+    <None Remove="Screenshot_3.png" />
+    <None Remove="Screenshot_4.png" />
+    <None Remove="Screenshot_5.png" />
+    <None Remove="Screenshot_6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons8_clock_24px.png" />
+    <Resource Include="icons8_clock_32px.png" />
+    <Resource Include="icons8_facebook_like_24px.png" />
+    <Resource Include="icons8_fire_32px.png" />
+    <Resource Include="icons8_home_64px.png" />
+    <Resource Include="icons8_menu_32px_2.png" />
+    <Resource Include="icons8_menu_50px_4.png" />
+    <Resource Include="icons8_notification_32px.png" />
+    <Resource Include="icons8_play_button_48px_1.png" />
+    <Resource Include="icons8_search_24px.png" />
+    <Resource Include="icons8_squared_menu_50px.png" />
+    <Resource Include="icons8_upload_to_cloud_32px.png" />
+    <Resource Include="icons8_youtube_16px.png" />
+    <Resource Include="icons8_youtube_48px.png" />
+    <Resource Include="IMG_6860.png" />
+    <Resource Include="Screenshot_1.png" />
+    <Resource Include="Screenshot_14.png" />
+    <Resource Include="Screenshot_3.png" />
+    <Resource Include="Screenshot_4.png" />
+    <Resource Include="Screenshot_5.png" />
+    <Resource Include="Screenshot_6.png" />
+  </ItemGroup>
+
+</Project>
